@@ -1,0 +1,5673 @@
+{
+  "version": "2.1.0",
+  "runs": [
+    {
+      "tool": {
+        "driver": {
+          "name": "Glog.AI",
+          "organization": "Glog.AI",
+          "fullName": "Glog, Making software more secure",
+          "version": "1.0.0",
+          "semanticVersion": "1.0.0",
+          "informationUri": "https://www.glog.ai",
+          "rules": [
+            {
+              "id": "glog-8d34bdba-6d79-4d30-859d-c929d4ef2cb6",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS111237"
+                ]
+              }
+            },
+            {
+              "id": "glog-cd6b3dba-3e08-4110-8c5f-ad73a3ebe1a2",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS161085"
+                ]
+              }
+            },
+            {
+              "id": "glog-7737dadc-25a8-4afe-876f-5017814a1bae",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS161085"
+                ]
+              }
+            },
+            {
+              "id": "glog-6eea3fe4-84ea-46e3-a752-eceef25e49e4",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS161085"
+                ]
+              }
+            },
+            {
+              "id": "glog-4db2765a-b0b9-47c3-b82b-ee664e53a00a",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS137138"
+                ]
+              }
+            },
+            {
+              "id": "glog-e286ccec-5fef-4f5c-92f0-2d11d8bee383",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-c5480ea9-969f-40b0-91e2-fda9166b6e36",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS111237"
+                ]
+              }
+            },
+            {
+              "id": "glog-09424b1f-2c35-409d-bd1a-89308d6817af",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS137138"
+                ]
+              }
+            },
+            {
+              "id": "glog-70336a30-2421-44c3-8ae1-3e3265f28847",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS185832"
+                ]
+              }
+            },
+            {
+              "id": "glog-f08df9e2-fda3-4b4d-a3d3-aeeb99d22672",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS185832"
+                ]
+              }
+            },
+            {
+              "id": "glog-6e2a691c-8be0-4dd9-9f75-eb85582507e5",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-46e2ef96-45bf-4d45-ad3d-d22fc55c769c",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS161085"
+                ]
+              }
+            },
+            {
+              "id": "glog-e4c8f574-f10a-4711-8516-73418b4b367e",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS185832"
+                ]
+              }
+            },
+            {
+              "id": "glog-667ae202-236e-4280-a215-501264a01441",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-57f66a01-e509-4a46-8cfd-d1258685cdd4",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS161085"
+                ]
+              }
+            },
+            {
+              "id": "glog-c64b674e-fc29-49ee-81aa-8bcdb44817d9",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS185832"
+                ]
+              }
+            },
+            {
+              "id": "glog-6557f2d2-4a8a-429b-a869-7289b90dd151",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS185832"
+                ]
+              }
+            },
+            {
+              "id": "glog-df17721f-59ae-4048-a89c-e18449bc5261",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS185832"
+                ]
+              }
+            },
+            {
+              "id": "glog-e90b321d-cdea-49ae-87ed-76171e0d5232",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-135af7f1-97c2-436b-9c3a-984f6ce0cd75",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS161085"
+                ]
+              }
+            },
+            {
+              "id": "glog-1681c03b-1a19-4145-88ff-2d8a08bd0469",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS111237"
+                ]
+              }
+            },
+            {
+              "id": "glog-9e0fc7e3-ce75-473d-afb1-66524d6fdb35",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-3cfb4142-c099-4537-8ce8-831d13ac0dc1",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS137138"
+                ]
+              }
+            },
+            {
+              "id": "glog-2dda5140-1c13-40c9-8f29-5973bceee82f",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-3c61c314-faa6-4ae0-823d-da751aee0ff9",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-62065f3c-1e51-4820-a27c-ff3164c2a49c",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-10cf3eba-6932-4174-97a9-74c0f22d9716",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-8ad4a9fb-e9f6-4986-a325-53bbbd71d27b",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-a9b2b589-cc87-436c-a658-7e844e633ce9",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS161085"
+                ]
+              }
+            },
+            {
+              "id": "glog-9c99647a-c34d-4931-92c7-3d0d779a527b",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-941a041a-d02d-453d-98c4-713d6533a0e1",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-a31856b1-70e4-4d42-8446-f4f19e3545ee",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS161085"
+                ]
+              }
+            },
+            {
+              "id": "glog-50f17e97-22e4-4201-9788-8d47f3c4f6b7",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-59cd8fac-3722-4df0-92f1-a5955f49d71e",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-f2899e4f-c8c7-42ac-abd0-55722683abdb",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-1d0d5f05-3119-428f-8502-41b3099d9f03",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-52765e93-2464-4997-ba67-1d1ea0e2f056",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-9652adbd-c7d5-41b9-97b8-65bc2613c6ec",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-f55fd6ec-ebcd-4748-bf77-22280d621ea3",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-ec989d6f-3134-4acc-84e7-da36e6588f1e",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-69e696a9-3eb9-49f3-b163-7b3c30e4ab1c",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS111237"
+                ]
+              }
+            },
+            {
+              "id": "glog-79ace3cc-7359-474d-bc25-056794b7ad95",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS111237"
+                ]
+              }
+            },
+            {
+              "id": "glog-2225cb1a-bce0-4697-8ae8-ef5a5f93ccc6",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS111237"
+                ]
+              }
+            },
+            {
+              "id": "glog-19634159-257f-4495-81a8-2ae631fa7aa8",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS111237"
+                ]
+              }
+            },
+            {
+              "id": "glog-6ebb6ba4-6654-4b49-838d-f44c5377406a",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS111237"
+                ]
+              }
+            },
+            {
+              "id": "glog-c39806c5-2c08-4187-8305-1f80df6936d4",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS111237"
+                ]
+              }
+            },
+            {
+              "id": "glog-805c6a6a-fa4f-4cfc-82f0-0996ec27d3ab",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS111237"
+                ]
+              }
+            },
+            {
+              "id": "glog-2a50d8ab-0dba-4988-a147-36135a7d9b12",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS111237"
+                ]
+              }
+            },
+            {
+              "id": "glog-89eb7d66-260d-40c2-ae54-43d645831585",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS111237"
+                ]
+              }
+            },
+            {
+              "id": "glog-26075023-22a7-4411-8964-e7e7910404b8",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS111237"
+                ]
+              }
+            },
+            {
+              "id": "glog-61961571-6fac-40c0-887f-ae1e0bc833c7",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-cbabdb3c-6f09-4a05-b607-fe1b63f6bd54",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS111237"
+                ]
+              }
+            },
+            {
+              "id": "glog-436d9aa4-539c-4cca-93a2-a42352b5a4da",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-64bd5e3e-0de6-4aac-bb70-f8c04f968d0a",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-d06f82b2-b45a-4888-8f01-61ec18396e74",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-b79ea8a7-dbb0-41b3-a33f-0e9993da64b4",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS111237"
+                ]
+              }
+            },
+            {
+              "id": "glog-7885d1fd-ba4e-4ed7-8db3-248e53e586b8",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-e5a7e62f-a417-4a97-afd8-f0de0102510d",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-9d9a0b5e-7b3b-4b3e-8d67-027377f7d942",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-8e56d96c-2ad4-4973-ae49-ce8f5d3da85a",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-6acd41a3-b1fb-4eff-be1c-87085ab70af4",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS161085"
+                ]
+              }
+            }
+          ],
+          "language": "en-US",
+          "contents": [
+            "localizedData",
+            "nonLocalizedData"
+          ],
+          "isComprehensive": false
+        }
+      },
+      "language": "en-US",
+      "results": [
+        {
+          "ruleId": "glog-8d34bdba-6d79-4d30-859d-c929d4ef2cb6",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/get_process_info_linux.c"
+                },
+                "region": {
+                  "startLine": 57,
+                  "startColumn": 2,
+                  "endLine": 57,
+                  "endColumn": 47,
+                  "charOffset": 1607,
+                  "charLength": 45,
+                  "snippet": {
+                    "text": "strncpy(*buffer, user_info->pw_name, namelen)",
+                    "rendered": {
+                      "text": "strncpy(*buffer, user_info->pw_name, namelen)",
+                      "markdown": "`strncpy(*buffer, user_info->pw_name, namelen)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "strncpy is dangerous, as if the source contains 'n' or more characters, it will not null terminate the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/get_process_info_linux.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 1607,
+                        "charLength": 45
+                      },
+                      "insertedContent": {
+                        "text": "strcpy_s(*buffer,  namelen,  user_info->pw_name)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "strncpy is dangerous, as if the source contains 'n' or more characters, it will not null terminate the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/get_process_info_linux.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 1607,
+                        "charLength": 45
+                      },
+                      "insertedContent": {
+                        "text": "strlcpy(*buffer,  user_info->pw_name,  namelen)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-cd6b3dba-3e08-4110-8c5f-ad73a3ebe1a2",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/get_process_info_linux.c"
+                },
+                "region": {
+                  "startLine": 75,
+                  "startColumn": 12,
+                  "endLine": 75,
+                  "endColumn": 31,
+                  "charOffset": 2068,
+                  "charLength": 19,
+                  "snippet": {
+                    "text": "malloc(size_buffer)",
+                    "rendered": {
+                      "text": "malloc(size_buffer)",
+                      "markdown": "`malloc(size_buffer)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If the value provided to malloc is the result of unsafe integer math, it can result in an exploitable condition. "
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/get_process_info_linux.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 2068,
+                        "charLength": 19
+                      },
+                      "insertedContent": {
+                        "text": "calloc(<number of elements>, <size of each element>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-7737dadc-25a8-4afe-876f-5017814a1bae",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/get_process_info_linux.c"
+                },
+                "region": {
+                  "startLine": 55,
+                  "startColumn": 12,
+                  "endLine": 55,
+                  "endColumn": 45,
+                  "charOffset": 1568,
+                  "charLength": 33,
+                  "snippet": {
+                    "text": "malloc(namelen * sizeof(**buffer)",
+                    "rendered": {
+                      "text": "malloc(namelen * sizeof(**buffer)",
+                      "markdown": "`malloc(namelen * sizeof(**buffer)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If the value provided to malloc is the result of unsafe integer math, it can result in an exploitable condition. "
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/get_process_info_linux.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 1568,
+                        "charLength": 33
+                      },
+                      "insertedContent": {
+                        "text": "calloc(<number of elements>, <size of each element>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-6eea3fe4-84ea-46e3-a752-eceef25e49e4",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/interface_ring_buffer.c"
+                },
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 32,
+                  "endLine": 14,
+                  "endColumn": 106,
+                  "charOffset": 505,
+                  "charLength": 74,
+                  "snippet": {
+                    "text": "malloc(sizeof(unsigned[devices_count][per_device_data_saved][buffer_size])",
+                    "rendered": {
+                      "text": "malloc(sizeof(unsigned[devices_count][per_device_data_saved][buffer_size])",
+                      "markdown": "`malloc(sizeof(unsigned[devices_count][per_device_data_saved][buffer_size])`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If the value provided to malloc is the result of unsafe integer math, it can result in an exploitable condition. "
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/interface_ring_buffer.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 505,
+                        "charLength": 74
+                      },
+                      "insertedContent": {
+                        "text": "calloc(<number of elements>, <size of each element>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-4db2765a-b0b9-47c3-b82b-ee664e53a00a",
+          "kind": "fail",
+          "level": "warning",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/get_process_info_linux.c"
+                },
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 35,
+                  "endLine": 18,
+                  "endColumn": 53,
+                  "charOffset": 708,
+                  "charLength": 18,
+                  "snippet": {
+                    "text": "http://www.gnu.org",
+                    "rendered": {
+                      "text": "http://www.gnu.org",
+                      "markdown": "`http://www.gnu.org`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "An HTTP-based URL without TLS was detected."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/get_process_info_linux.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 708,
+                        "charLength": 18
+                      },
+                      "insertedContent": {
+                        "text": "https://www.gnu.org"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Moderate",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "ThreatModel.Integration.HTTP"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-e286ccec-5fef-4f5c-92f0-2d11d8bee383",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/get_process_info_linux.c"
+                },
+                "region": {
+                  "startLine": 54,
+                  "startColumn": 19,
+                  "endLine": 54,
+                  "endColumn": 45,
+                  "charOffset": 1524,
+                  "charLength": 26,
+                  "snippet": {
+                    "text": "strlen(user_info->pw_name)",
+                    "rendered": {
+                      "text": "strlen(user_info->pw_name)",
+                      "markdown": "`strlen(user_info->pw_name)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/get_process_info_linux.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 1524,
+                        "charLength": 26
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(user_info->pw_name, <size of user_info->pw_name>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/get_process_info_linux.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 1524,
+                        "charLength": 26
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(user_info->pw_name, <size of user_info->pw_name>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-c5480ea9-969f-40b0-91e2-fda9166b6e36",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/extract_gpuinfo_intel.c"
+                },
+                "region": {
+                  "startLine": 266,
+                  "startColumn": 2,
+                  "endLine": 266,
+                  "endColumn": 49,
+                  "charOffset": 10733,
+                  "charLength": 47,
+                  "snippet": {
+                    "text": "strncpy(thisGPU->base.pdev, pdev_val, PDEV_LEN)",
+                    "rendered": {
+                      "text": "strncpy(thisGPU->base.pdev, pdev_val, PDEV_LEN)",
+                      "markdown": "`strncpy(thisGPU->base.pdev, pdev_val, PDEV_LEN)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "strncpy is dangerous, as if the source contains 'n' or more characters, it will not null terminate the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/extract_gpuinfo_intel.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 10733,
+                        "charLength": 47
+                      },
+                      "insertedContent": {
+                        "text": "strcpy_s(thisGPU->base.pdev,  PDEV_LEN,  pdev_val)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "strncpy is dangerous, as if the source contains 'n' or more characters, it will not null terminate the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/extract_gpuinfo_intel.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 10733,
+                        "charLength": 47
+                      },
+                      "insertedContent": {
+                        "text": "strlcpy(thisGPU->base.pdev,  pdev_val,  PDEV_LEN)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-09424b1f-2c35-409d-bd1a-89308d6817af",
+          "kind": "fail",
+          "level": "warning",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/extract_gpuinfo_intel.c"
+                },
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 35,
+                  "endLine": 18,
+                  "endColumn": 53,
+                  "charOffset": 757,
+                  "charLength": 18,
+                  "snippet": {
+                    "text": "http://www.gnu.org",
+                    "rendered": {
+                      "text": "http://www.gnu.org",
+                      "markdown": "`http://www.gnu.org`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "An HTTP-based URL without TLS was detected."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/extract_gpuinfo_intel.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 757,
+                        "charLength": 18
+                      },
+                      "insertedContent": {
+                        "text": "https://www.gnu.org"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Moderate",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "ThreatModel.Integration.HTTP"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-70336a30-2421-44c3-8ae1-3e3265f28847",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/interface_options.c"
+                },
+                "region": {
+                  "startLine": 351,
+                  "startColumn": 2,
+                  "endLine": 351,
+                  "endColumn": 52,
+                  "charOffset": 14097,
+                  "charLength": 50,
+                  "snippet": {
+                    "text": "strcpy(folder_path, options->config_file_location)",
+                    "rendered": {
+                      "text": "strcpy(folder_path, options->config_file_location)",
+                      "markdown": "`strcpy(folder_path, options->config_file_location)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "strcpy is frequently dangerous, as it will cause a buffer overflow if the source is larger than the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/interface_options.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 14097,
+                        "charLength": 50
+                      },
+                      "insertedContent": {
+                        "text": "strcpy_s(folder_path, <size of folder_path>,  options->config_file_location)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "strcpy is frequently dangerous, as it will cause a buffer overflow if the source is larger than the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/interface_options.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 14097,
+                        "charLength": 50
+                      },
+                      "insertedContent": {
+                        "text": "strlcpy(folder_path,  options->config_file_location, <size of folder_path>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-f08df9e2-fda3-4b4d-a3d3-aeeb99d22672",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/interface_options.c"
+                },
+                "region": {
+                  "startLine": 140,
+                  "startColumn": 4,
+                  "endLine": 140,
+                  "endColumn": 55,
+                  "charOffset": 5398,
+                  "charLength": 51,
+                  "snippet": {
+                    "text": "strcpy(options->config_file_location, default_path)",
+                    "rendered": {
+                      "text": "strcpy(options->config_file_location, default_path)",
+                      "markdown": "`strcpy(options->config_file_location, default_path)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "strcpy is frequently dangerous, as it will cause a buffer overflow if the source is larger than the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/interface_options.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 5398,
+                        "charLength": 51
+                      },
+                      "insertedContent": {
+                        "text": "strcpy_s(options->config_file_location, <size of options->config_file_location>,  default_path)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "strcpy is frequently dangerous, as it will cause a buffer overflow if the source is larger than the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/interface_options.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 5398,
+                        "charLength": 51
+                      },
+                      "insertedContent": {
+                        "text": "strlcpy(options->config_file_location,  default_path, <size of options->config_file_location>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-6e2a691c-8be0-4dd9-9f75-eb85582507e5",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/interface_options.c"
+                },
+                "region": {
+                  "startLine": 135,
+                  "startColumn": 43,
+                  "endLine": 135,
+                  "endColumn": 63,
+                  "charOffset": 5251,
+                  "charLength": 20,
+                  "snippet": {
+                    "text": "strlen(default_path)",
+                    "rendered": {
+                      "text": "strlen(default_path)",
+                      "markdown": "`strlen(default_path)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/interface_options.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 5251,
+                        "charLength": 20
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(default_path, <size of default_path>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/interface_options.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 5251,
+                        "charLength": 20
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(default_path, <size of default_path>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-46e2ef96-45bf-4d45-ad3d-d22fc55c769c",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/interface_options.c"
+                },
+                "region": {
+                  "startLine": 135,
+                  "startColumn": 36,
+                  "endLine": 135,
+                  "endColumn": 63,
+                  "charOffset": 5244,
+                  "charLength": 27,
+                  "snippet": {
+                    "text": "malloc(strlen(default_path)",
+                    "rendered": {
+                      "text": "malloc(strlen(default_path)",
+                      "markdown": "`malloc(strlen(default_path)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If the value provided to malloc is the result of unsafe integer math, it can result in an exploitable condition. "
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/interface_options.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 5244,
+                        "charLength": 27
+                      },
+                      "insertedContent": {
+                        "text": "calloc(<number of elements>, <size of each element>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-e4c8f574-f10a-4711-8516-73418b4b367e",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/interface_options.c"
+                },
+                "region": {
+                  "startLine": 132,
+                  "startColumn": 4,
+                  "endLine": 132,
+                  "endColumn": 58,
+                  "charOffset": 5087,
+                  "charLength": 54,
+                  "snippet": {
+                    "text": "strcpy(options->config_file_location, config_location)",
+                    "rendered": {
+                      "text": "strcpy(options->config_file_location, config_location)",
+                      "markdown": "`strcpy(options->config_file_location, config_location)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "strcpy is frequently dangerous, as it will cause a buffer overflow if the source is larger than the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/interface_options.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 5087,
+                        "charLength": 54
+                      },
+                      "insertedContent": {
+                        "text": "strcpy_s(options->config_file_location, <size of options->config_file_location>,  config_location)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "strcpy is frequently dangerous, as it will cause a buffer overflow if the source is larger than the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/interface_options.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 5087,
+                        "charLength": 54
+                      },
+                      "insertedContent": {
+                        "text": "strlcpy(options->config_file_location,  config_location, <size of options->config_file_location>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-667ae202-236e-4280-a215-501264a01441",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/interface_options.c"
+                },
+                "region": {
+                  "startLine": 127,
+                  "startColumn": 43,
+                  "endLine": 127,
+                  "endColumn": 66,
+                  "charOffset": 4937,
+                  "charLength": 23,
+                  "snippet": {
+                    "text": "strlen(config_location)",
+                    "rendered": {
+                      "text": "strlen(config_location)",
+                      "markdown": "`strlen(config_location)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/interface_options.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 4937,
+                        "charLength": 23
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(config_location, <size of config_location>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/interface_options.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 4937,
+                        "charLength": 23
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(config_location, <size of config_location>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-57f66a01-e509-4a46-8cfd-d1258685cdd4",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/interface_options.c"
+                },
+                "region": {
+                  "startLine": 127,
+                  "startColumn": 36,
+                  "endLine": 127,
+                  "endColumn": 66,
+                  "charOffset": 4930,
+                  "charLength": 30,
+                  "snippet": {
+                    "text": "malloc(strlen(config_location)",
+                    "rendered": {
+                      "text": "malloc(strlen(config_location)",
+                      "markdown": "`malloc(strlen(config_location)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If the value provided to malloc is the result of unsafe integer math, it can result in an exploitable condition. "
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/interface_options.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 4930,
+                        "charLength": 30
+                      },
+                      "insertedContent": {
+                        "text": "calloc(<number of elements>, <size of each element>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-c64b674e-fc29-49ee-81aa-8bcdb44817d9",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/interface_options.c"
+                },
+                "region": {
+                  "startLine": 55,
+                  "startColumn": 4,
+                  "endLine": 55,
+                  "endColumn": 91,
+                  "charOffset": 1835,
+                  "charLength": 87,
+                  "snippet": {
+                    "text": "strcpy(config_file_path + xdg_path_length + 1 + conf_path_length, config_file_location)",
+                    "rendered": {
+                      "text": "strcpy(config_file_path + xdg_path_length + 1 + conf_path_length, config_file_location)",
+                      "markdown": "`strcpy(config_file_path + xdg_path_length + 1 + conf_path_length, config_file_location)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "strcpy is frequently dangerous, as it will cause a buffer overflow if the source is larger than the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/interface_options.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 1835,
+                        "charLength": 87
+                      },
+                      "insertedContent": {
+                        "text": "strcpy_s(config_file_path + xdg_path_length + 1 + conf_path_length, <size of config_file_path + xdg_path_length + 1 + conf_path_length>,  config_file_location)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "strcpy is frequently dangerous, as it will cause a buffer overflow if the source is larger than the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/interface_options.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 1835,
+                        "charLength": 87
+                      },
+                      "insertedContent": {
+                        "text": "strlcpy(config_file_path + xdg_path_length + 1 + conf_path_length,  config_file_location, <size of config_file_path + xdg_path_length + 1 + conf_path_length>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-6557f2d2-4a8a-429b-a869-7289b90dd151",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/interface_options.c"
+                },
+                "region": {
+                  "startLine": 52,
+                  "startColumn": 6,
+                  "endLine": 52,
+                  "endColumn": 70,
+                  "charOffset": 1693,
+                  "charLength": 64,
+                  "snippet": {
+                    "text": "strcpy(config_file_path + xdg_path_length + 1, config_conf_path)",
+                    "rendered": {
+                      "text": "strcpy(config_file_path + xdg_path_length + 1, config_conf_path)",
+                      "markdown": "`strcpy(config_file_path + xdg_path_length + 1, config_conf_path)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "strcpy is frequently dangerous, as it will cause a buffer overflow if the source is larger than the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/interface_options.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 1693,
+                        "charLength": 64
+                      },
+                      "insertedContent": {
+                        "text": "strcpy_s(config_file_path + xdg_path_length + 1, <size of config_file_path + xdg_path_length + 1>,  config_conf_path)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "strcpy is frequently dangerous, as it will cause a buffer overflow if the source is larger than the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/interface_options.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 1693,
+                        "charLength": 64
+                      },
+                      "insertedContent": {
+                        "text": "strlcpy(config_file_path + xdg_path_length + 1,  config_conf_path, <size of config_file_path + xdg_path_length + 1>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-df17721f-59ae-4048-a89c-e18449bc5261",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/interface_options.c"
+                },
+                "region": {
+                  "startLine": 49,
+                  "startColumn": 4,
+                  "endLine": 49,
+                  "endColumn": 44,
+                  "charOffset": 1572,
+                  "charLength": 40,
+                  "snippet": {
+                    "text": "strcpy(config_file_path, xdg_config_dir)",
+                    "rendered": {
+                      "text": "strcpy(config_file_path, xdg_config_dir)",
+                      "markdown": "`strcpy(config_file_path, xdg_config_dir)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "strcpy is frequently dangerous, as it will cause a buffer overflow if the source is larger than the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/interface_options.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 1572,
+                        "charLength": 40
+                      },
+                      "insertedContent": {
+                        "text": "strcpy_s(config_file_path, <size of config_file_path>,  xdg_config_dir)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "strcpy is frequently dangerous, as it will cause a buffer overflow if the source is larger than the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/interface_options.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 1572,
+                        "charLength": 40
+                      },
+                      "insertedContent": {
+                        "text": "strlcpy(config_file_path,  xdg_config_dir, <size of config_file_path>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-e90b321d-cdea-49ae-87ed-76171e0d5232",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/interface_options.c"
+                },
+                "region": {
+                  "startLine": 47,
+                  "startColumn": 27,
+                  "endLine": 47,
+                  "endColumn": 49,
+                  "charOffset": 1458,
+                  "charLength": 22,
+                  "snippet": {
+                    "text": "strlen(xdg_config_dir)",
+                    "rendered": {
+                      "text": "strlen(xdg_config_dir)",
+                      "markdown": "`strlen(xdg_config_dir)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/interface_options.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 1458,
+                        "charLength": 22
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(xdg_config_dir, <size of xdg_config_dir>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/interface_options.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 1458,
+                        "charLength": 22
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(xdg_config_dir, <size of xdg_config_dir>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-135af7f1-97c2-436b-9c3a-984f6ce0cd75",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/extract_gpuinfo_nvidia.c"
+                },
+                "region": {
+                  "startLine": 577,
+                  "startColumn": 46,
+                  "endLine": 577,
+                  "endColumn": 85,
+                  "charOffset": 22566,
+                  "charLength": 39,
+                  "snippet": {
+                    "text": "malloc(samples_count * sizeof(*samples)",
+                    "rendered": {
+                      "text": "malloc(samples_count * sizeof(*samples)",
+                      "markdown": "`malloc(samples_count * sizeof(*samples)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If the value provided to malloc is the result of unsafe integer math, it can result in an exploitable condition. "
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/extract_gpuinfo_nvidia.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 22566,
+                        "charLength": 39
+                      },
+                      "insertedContent": {
+                        "text": "calloc(<number of elements>, <size of each element>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-1681c03b-1a19-4145-88ff-2d8a08bd0469",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/extract_gpuinfo_nvidia.c"
+                },
+                "region": {
+                  "startLine": 407,
+                  "startColumn": 8,
+                  "endLine": 407,
+                  "endColumn": 75,
+                  "charOffset": 14598,
+                  "charLength": 67,
+                  "snippet": {
+                    "text": "strncpy(gpu_infos[*count].base.pdev, pciInfo.busIdLegacy, PDEV_LEN)",
+                    "rendered": {
+                      "text": "strncpy(gpu_infos[*count].base.pdev, pciInfo.busIdLegacy, PDEV_LEN)",
+                      "markdown": "`strncpy(gpu_infos[*count].base.pdev, pciInfo.busIdLegacy, PDEV_LEN)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "strncpy is dangerous, as if the source contains 'n' or more characters, it will not null terminate the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/extract_gpuinfo_nvidia.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 14598,
+                        "charLength": 67
+                      },
+                      "insertedContent": {
+                        "text": "strcpy_s(gpu_infos[*count].base.pdev,  PDEV_LEN,  pciInfo.busIdLegacy)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "strncpy is dangerous, as if the source contains 'n' or more characters, it will not null terminate the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/extract_gpuinfo_nvidia.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 14598,
+                        "charLength": 67
+                      },
+                      "insertedContent": {
+                        "text": "strlcpy(gpu_infos[*count].base.pdev,  pciInfo.busIdLegacy,  PDEV_LEN)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-9e0fc7e3-ce75-473d-afb1-66524d6fdb35",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/plot.c"
+                },
+                "region": {
+                  "startLine": 113,
+                  "startColumn": 22,
+                  "endLine": 113,
+                  "endColumn": 39,
+                  "charOffset": 4361,
+                  "charLength": 17,
+                  "snippet": {
+                    "text": "strlen(legend[i])",
+                    "rendered": {
+                      "text": "strlen(legend[i])",
+                      "markdown": "`strlen(legend[i])`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/plot.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 4361,
+                        "charLength": 17
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(legend[i], <size of legend[i]>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/plot.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 4361,
+                        "charLength": 17
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(legend[i], <size of legend[i]>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-3cfb4142-c099-4537-8ce8-831d13ac0dc1",
+          "kind": "fail",
+          "level": "warning",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/plot.c"
+                },
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 35,
+                  "endLine": 18,
+                  "endColumn": 53,
+                  "charOffset": 708,
+                  "charLength": 18,
+                  "snippet": {
+                    "text": "http://www.gnu.org",
+                    "rendered": {
+                      "text": "http://www.gnu.org",
+                      "markdown": "`http://www.gnu.org`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "An HTTP-based URL without TLS was detected."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/plot.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 708,
+                        "charLength": 18
+                      },
+                      "insertedContent": {
+                        "text": "https://www.gnu.org"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Moderate",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "ThreatModel.Integration.HTTP"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-2dda5140-1c13-40c9-8f29-5973bceee82f",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/interface.c"
+                },
+                "region": {
+                  "startLine": 1929,
+                  "startColumn": 27,
+                  "endLine": 1929,
+                  "endColumn": 46,
+                  "charOffset": 76661,
+                  "charLength": 19,
+                  "snippet": {
+                    "text": "strlen(messages[i])",
+                    "rendered": {
+                      "text": "strlen(messages[i])",
+                      "markdown": "`strlen(messages[i])`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/interface.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 76661,
+                        "charLength": 19
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(messages[i], <size of messages[i]>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/interface.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 76661,
+                        "charLength": 19
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(messages[i], <size of messages[i]>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-3c61c314-faa6-4ae0-823d-da751aee0ff9",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/interface.c"
+                },
+                "region": {
+                  "startLine": 1926,
+                  "startColumn": 24,
+                  "endLine": 1926,
+                  "endColumn": 43,
+                  "charOffset": 76528,
+                  "charLength": 19,
+                  "snippet": {
+                    "text": "strlen(messages[i])",
+                    "rendered": {
+                      "text": "strlen(messages[i])",
+                      "markdown": "`strlen(messages[i])`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/interface.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 76528,
+                        "charLength": 19
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(messages[i], <size of messages[i]>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/interface.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 76528,
+                        "charLength": 19
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(messages[i], <size of messages[i]>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-62065f3c-1e51-4820-a27c-ff3164c2a49c",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/interface.c"
+                },
+                "region": {
+                  "startLine": 1922,
+                  "startColumn": 38,
+                  "endLine": 1922,
+                  "endColumn": 57,
+                  "charOffset": 76369,
+                  "charLength": 19,
+                  "snippet": {
+                    "text": "strlen(messages[i])",
+                    "rendered": {
+                      "text": "strlen(messages[i])",
+                      "markdown": "`strlen(messages[i])`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/interface.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 76369,
+                        "charLength": 19
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(messages[i], <size of messages[i]>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/interface.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 76369,
+                        "charLength": 19
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(messages[i], <size of messages[i]>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-10cf3eba-6932-4174-97a9-74c0f22d9716",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/interface.c"
+                },
+                "region": {
+                  "startLine": 1874,
+                  "startColumn": 26,
+                  "endLine": 1874,
+                  "endColumn": 66,
+                  "charOffset": 74504,
+                  "charLength": 40,
+                  "snippet": {
+                    "text": "strlen(gpuinfo->static_info.device_name)",
+                    "rendered": {
+                      "text": "strlen(gpuinfo->static_info.device_name)",
+                      "markdown": "`strlen(gpuinfo->static_info.device_name)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/interface.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 74504,
+                        "charLength": 40
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(gpuinfo->static_info.device_name, <size of gpuinfo->static_info.device_name>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/interface.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 74504,
+                        "charLength": 40
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(gpuinfo->static_info.device_name, <size of gpuinfo->static_info.device_name>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-8ad4a9fb-e9f6-4986-a325-53bbbd71d27b",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/interface.c"
+                },
+                "region": {
+                  "startLine": 1325,
+                  "startColumn": 24,
+                  "endLine": 1325,
+                  "endColumn": 73,
+                  "charOffset": 53972,
+                  "charLength": 49,
+                  "snippet": {
+                    "text": "strlen(all_procs.processes[i].process->user_name)",
+                    "rendered": {
+                      "text": "strlen(all_procs.processes[i].process->user_name)",
+                      "markdown": "`strlen(all_procs.processes[i].process->user_name)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/interface.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 53972,
+                        "charLength": 49
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(all_procs.processes[i].process->user_name, <size of all_procs.processes[i].process->user_name>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/interface.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 53972,
+                        "charLength": 49
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(all_procs.processes[i].process->user_name, <size of all_procs.processes[i].process->user_name>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-a9b2b589-cc87-436c-a658-7e844e633ce9",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/interface.c"
+                },
+                "region": {
+                  "startLine": 809,
+                  "startColumn": 41,
+                  "endLine": 809,
+                  "endColumn": 115,
+                  "charOffset": 31368,
+                  "charLength": 74,
+                  "snippet": {
+                    "text": "malloc(total_processes_count * sizeof(*merged_devices_processes.processes)",
+                    "rendered": {
+                      "text": "malloc(total_processes_count * sizeof(*merged_devices_processes.processes)",
+                      "markdown": "`malloc(total_processes_count * sizeof(*merged_devices_processes.processes)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If the value provided to malloc is the result of unsafe integer math, it can result in an exploitable condition. "
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/interface.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 31368,
+                        "charLength": 74
+                      },
+                      "insertedContent": {
+                        "text": "calloc(<number of elements>, <size of each element>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-9c99647a-c34d-4931-92c7-3d0d779a527b",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/interface.c"
+                },
+                "region": {
+                  "startLine": 467,
+                  "startColumn": 50,
+                  "endLine": 467,
+                  "endColumn": 77,
+                  "charOffset": 17878,
+                  "charLength": 27,
+                  "snippet": {
+                    "text": "strlen(inside_braces_right)",
+                    "rendered": {
+                      "text": "strlen(inside_braces_right)",
+                      "markdown": "`strlen(inside_braces_right)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/interface.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 17878,
+                        "charLength": 27
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(inside_braces_right, <size of inside_braces_right>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/interface.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 17878,
+                        "charLength": 27
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(inside_braces_right, <size of inside_braces_right>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-941a041a-d02d-453d-98c4-713d6533a0e1",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/interface.c"
+                },
+                "region": {
+                  "startLine": 453,
+                  "startColumn": 24,
+                  "endLine": 453,
+                  "endColumn": 39,
+                  "charOffset": 17295,
+                  "charLength": 15,
+                  "snippet": {
+                    "text": "strlen(prelude)",
+                    "rendered": {
+                      "text": "strlen(prelude)",
+                      "markdown": "`strlen(prelude)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/interface.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 17295,
+                        "charLength": 15
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(prelude, <size of prelude>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/interface.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 17295,
+                        "charLength": 15
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(prelude, <size of prelude>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-a31856b1-70e4-4d42-8446-f4f19e3545ee",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/interface.c"
+                },
+                "region": {
+                  "startLine": 308,
+                  "startColumn": 21,
+                  "endLine": 308,
+                  "endColumn": 76,
+                  "charOffset": 11700,
+                  "charLength": 55,
+                  "snippet": {
+                    "text": "malloc(interface->num_plots * sizeof(*interface->plots)",
+                    "rendered": {
+                      "text": "malloc(interface->num_plots * sizeof(*interface->plots)",
+                      "markdown": "`malloc(interface->num_plots * sizeof(*interface->plots)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If the value provided to malloc is the result of unsafe integer math, it can result in an exploitable condition. "
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/interface.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 11700,
+                        "charLength": 55
+                      },
+                      "insertedContent": {
+                        "text": "calloc(<number of elements>, <size of each element>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-50f17e97-22e4-4201-9788-8d47f3c4f6b7",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/interface.c"
+                },
+                "region": {
+                  "startLine": 297,
+                  "startColumn": 57,
+                  "endLine": 297,
+                  "endColumn": 72,
+                  "charOffset": 11331,
+                  "charLength": 15,
+                  "snippet": {
+                    "text": "strlen(toPrint)",
+                    "rendered": {
+                      "text": "strlen(toPrint)",
+                      "markdown": "`strlen(toPrint)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/interface.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 11331,
+                        "charLength": 15
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(toPrint, <size of toPrint>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/interface.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 11331,
+                        "charLength": 15
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(toPrint, <size of toPrint>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-59cd8fac-3722-4df0-92f1-a5955f49d71e",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/interface.c"
+                },
+                "region": {
+                  "startLine": 294,
+                  "startColumn": 65,
+                  "endLine": 294,
+                  "endColumn": 80,
+                  "charOffset": 11213,
+                  "charLength": 15,
+                  "snippet": {
+                    "text": "strlen(toPrint)",
+                    "rendered": {
+                      "text": "strlen(toPrint)",
+                      "markdown": "`strlen(toPrint)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/interface.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 11213,
+                        "charLength": 15
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(toPrint, <size of toPrint>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/interface.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 11213,
+                        "charLength": 15
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(toPrint, <size of toPrint>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-f2899e4f-c8c7-42ac-abd0-55722683abdb",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/interface.c"
+                },
+                "region": {
+                  "startLine": 287,
+                  "startColumn": 61,
+                  "endLine": 287,
+                  "endColumn": 76,
+                  "charOffset": 10918,
+                  "charLength": 15,
+                  "snippet": {
+                    "text": "strlen(toPrint)",
+                    "rendered": {
+                      "text": "strlen(toPrint)",
+                      "markdown": "`strlen(toPrint)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/interface.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 10918,
+                        "charLength": 15
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(toPrint, <size of toPrint>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/interface.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 10918,
+                        "charLength": 15
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(toPrint, <size of toPrint>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-1d0d5f05-3119-428f-8502-41b3099d9f03",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/interface.c"
+                },
+                "region": {
+                  "startLine": 280,
+                  "startColumn": 61,
+                  "endLine": 280,
+                  "endColumn": 76,
+                  "charOffset": 10627,
+                  "charLength": 15,
+                  "snippet": {
+                    "text": "strlen(toPrint)",
+                    "rendered": {
+                      "text": "strlen(toPrint)",
+                      "markdown": "`strlen(toPrint)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/interface.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 10627,
+                        "charLength": 15
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(toPrint, <size of toPrint>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/interface.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 10627,
+                        "charLength": 15
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(toPrint, <size of toPrint>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-52765e93-2464-4997-ba67-1d1ea0e2f056",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/interface.c"
+                },
+                "region": {
+                  "startLine": 265,
+                  "startColumn": 57,
+                  "endLine": 265,
+                  "endColumn": 72,
+                  "charOffset": 10049,
+                  "charLength": 15,
+                  "snippet": {
+                    "text": "strlen(toPrint)",
+                    "rendered": {
+                      "text": "strlen(toPrint)",
+                      "markdown": "`strlen(toPrint)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/interface.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 10049,
+                        "charLength": 15
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(toPrint, <size of toPrint>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/interface.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 10049,
+                        "charLength": 15
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(toPrint, <size of toPrint>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-9652adbd-c7d5-41b9-97b8-65bc2613c6ec",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/interface.c"
+                },
+                "region": {
+                  "startLine": 258,
+                  "startColumn": 65,
+                  "endLine": 258,
+                  "endColumn": 80,
+                  "charOffset": 9766,
+                  "charLength": 15,
+                  "snippet": {
+                    "text": "strlen(toPrint)",
+                    "rendered": {
+                      "text": "strlen(toPrint)",
+                      "markdown": "`strlen(toPrint)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/interface.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 9766,
+                        "charLength": 15
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(toPrint, <size of toPrint>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/interface.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 9766,
+                        "charLength": 15
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(toPrint, <size of toPrint>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-f55fd6ec-ebcd-4748-bf77-22280d621ea3",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/interface.c"
+                },
+                "region": {
+                  "startLine": 251,
+                  "startColumn": 61,
+                  "endLine": 251,
+                  "endColumn": 76,
+                  "charOffset": 9467,
+                  "charLength": 15,
+                  "snippet": {
+                    "text": "strlen(toPrint)",
+                    "rendered": {
+                      "text": "strlen(toPrint)",
+                      "markdown": "`strlen(toPrint)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/interface.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 9467,
+                        "charLength": 15
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(toPrint, <size of toPrint>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/interface.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 9467,
+                        "charLength": 15
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(toPrint, <size of toPrint>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-ec989d6f-3134-4acc-84e7-da36e6588f1e",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/interface.c"
+                },
+                "region": {
+                  "startLine": 244,
+                  "startColumn": 61,
+                  "endLine": 244,
+                  "endColumn": 76,
+                  "charOffset": 9176,
+                  "charLength": 15,
+                  "snippet": {
+                    "text": "strlen(toPrint)",
+                    "rendered": {
+                      "text": "strlen(toPrint)",
+                      "markdown": "`strlen(toPrint)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/interface.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 9176,
+                        "charLength": 15
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(toPrint, <size of toPrint>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/interface.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 9176,
+                        "charLength": 15
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(toPrint, <size of toPrint>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-69e696a9-3eb9-49f3-b163-7b3c30e4ab1c",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/extract_gpuinfo_amdgpu.c"
+                },
+                "region": {
+                  "startLine": 576,
+                  "startColumn": 8,
+                  "endLine": 576,
+                  "endColumn": 50,
+                  "charOffset": 19238,
+                  "charLength": 42,
+                  "snippet": {
+                    "text": "strncpy(dst, \" (Van Gogh)\", remaining_len)",
+                    "rendered": {
+                      "text": "strncpy(dst, \" (Van Gogh)\", remaining_len)",
+                      "markdown": "`strncpy(dst, \" (Van Gogh)\", remaining_len)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "strncpy is dangerous, as if the source contains 'n' or more characters, it will not null terminate the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/extract_gpuinfo_amdgpu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 19238,
+                        "charLength": 42
+                      },
+                      "insertedContent": {
+                        "text": "strcpy_s(dst,  remaining_len,  \" (Van Gogh)\")"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "strncpy is dangerous, as if the source contains 'n' or more characters, it will not null terminate the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/extract_gpuinfo_amdgpu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 19238,
+                        "charLength": 42
+                      },
+                      "insertedContent": {
+                        "text": "strlcpy(dst,  \" (Van Gogh)\",  remaining_len)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-79ace3cc-7359-474d-bc25-056794b7ad95",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/extract_gpuinfo_amdgpu.c"
+                },
+                "region": {
+                  "startLine": 581,
+                  "startColumn": 8,
+                  "endLine": 581,
+                  "endColumn": 53,
+                  "charOffset": 19365,
+                  "charLength": 45,
+                  "snippet": {
+                    "text": "strncpy(dst, \" (Yellow Carp)\", remaining_len)",
+                    "rendered": {
+                      "text": "strncpy(dst, \" (Yellow Carp)\", remaining_len)",
+                      "markdown": "`strncpy(dst, \" (Yellow Carp)\", remaining_len)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "strncpy is dangerous, as if the source contains 'n' or more characters, it will not null terminate the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/extract_gpuinfo_amdgpu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 19365,
+                        "charLength": 45
+                      },
+                      "insertedContent": {
+                        "text": "strcpy_s(dst,  remaining_len,  \" (Yellow Carp)\")"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "strncpy is dangerous, as if the source contains 'n' or more characters, it will not null terminate the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/extract_gpuinfo_amdgpu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 19365,
+                        "charLength": 45
+                      },
+                      "insertedContent": {
+                        "text": "strlcpy(dst,  \" (Yellow Carp)\",  remaining_len)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-2225cb1a-bce0-4697-8ae8-ef5a5f93ccc6",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/extract_gpuinfo_amdgpu.c"
+                },
+                "region": {
+                  "startLine": 571,
+                  "startColumn": 8,
+                  "endLine": 571,
+                  "endColumn": 48,
+                  "charOffset": 19111,
+                  "charLength": 40,
+                  "snippet": {
+                    "text": "strncpy(dst, \" (Navi10)\", remaining_len)",
+                    "rendered": {
+                      "text": "strncpy(dst, \" (Navi10)\", remaining_len)",
+                      "markdown": "`strncpy(dst, \" (Navi10)\", remaining_len)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "strncpy is dangerous, as if the source contains 'n' or more characters, it will not null terminate the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/extract_gpuinfo_amdgpu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 19111,
+                        "charLength": 40
+                      },
+                      "insertedContent": {
+                        "text": "strcpy_s(dst,  remaining_len,  \" (Navi10)\")"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "strncpy is dangerous, as if the source contains 'n' or more characters, it will not null terminate the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/extract_gpuinfo_amdgpu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 19111,
+                        "charLength": 40
+                      },
+                      "insertedContent": {
+                        "text": "strlcpy(dst,  \" (Navi10)\",  remaining_len)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-19634159-257f-4495-81a8-2ae631fa7aa8",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/extract_gpuinfo_amdgpu.c"
+                },
+                "region": {
+                  "startLine": 566,
+                  "startColumn": 8,
+                  "endLine": 566,
+                  "endColumn": 47,
+                  "charOffset": 18987,
+                  "charLength": 39,
+                  "snippet": {
+                    "text": "strncpy(dst, \" (Raven)\", remaining_len)",
+                    "rendered": {
+                      "text": "strncpy(dst, \" (Raven)\", remaining_len)",
+                      "markdown": "`strncpy(dst, \" (Raven)\", remaining_len)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "strncpy is dangerous, as if the source contains 'n' or more characters, it will not null terminate the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/extract_gpuinfo_amdgpu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 18987,
+                        "charLength": 39
+                      },
+                      "insertedContent": {
+                        "text": "strcpy_s(dst,  remaining_len,  \" (Raven)\")"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "strncpy is dangerous, as if the source contains 'n' or more characters, it will not null terminate the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/extract_gpuinfo_amdgpu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 18987,
+                        "charLength": 39
+                      },
+                      "insertedContent": {
+                        "text": "strlcpy(dst,  \" (Raven)\",  remaining_len)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-6ebb6ba4-6654-4b49-838d-f44c5377406a",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/extract_gpuinfo_amdgpu.c"
+                },
+                "region": {
+                  "startLine": 561,
+                  "startColumn": 8,
+                  "endLine": 561,
+                  "endColumn": 48,
+                  "charOffset": 18862,
+                  "charLength": 40,
+                  "snippet": {
+                    "text": "strncpy(dst, \" (Vega10)\", remaining_len)",
+                    "rendered": {
+                      "text": "strncpy(dst, \" (Vega10)\", remaining_len)",
+                      "markdown": "`strncpy(dst, \" (Vega10)\", remaining_len)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "strncpy is dangerous, as if the source contains 'n' or more characters, it will not null terminate the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/extract_gpuinfo_amdgpu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 18862,
+                        "charLength": 40
+                      },
+                      "insertedContent": {
+                        "text": "strcpy_s(dst,  remaining_len,  \" (Vega10)\")"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "strncpy is dangerous, as if the source contains 'n' or more characters, it will not null terminate the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/extract_gpuinfo_amdgpu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 18862,
+                        "charLength": 40
+                      },
+                      "insertedContent": {
+                        "text": "strlcpy(dst,  \" (Vega10)\",  remaining_len)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-c39806c5-2c08-4187-8305-1f80df6936d4",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/extract_gpuinfo_amdgpu.c"
+                },
+                "region": {
+                  "startLine": 556,
+                  "startColumn": 8,
+                  "endLine": 556,
+                  "endColumn": 58,
+                  "charOffset": 18727,
+                  "charLength": 50,
+                  "snippet": {
+                    "text": "strncpy(dst, \" (Carrizo / Stoney)\", remaining_len)",
+                    "rendered": {
+                      "text": "strncpy(dst, \" (Carrizo / Stoney)\", remaining_len)",
+                      "markdown": "`strncpy(dst, \" (Carrizo / Stoney)\", remaining_len)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "strncpy is dangerous, as if the source contains 'n' or more characters, it will not null terminate the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/extract_gpuinfo_amdgpu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 18727,
+                        "charLength": 50
+                      },
+                      "insertedContent": {
+                        "text": "strcpy_s(dst,  remaining_len,  \" (Carrizo / Stoney)\")"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "strncpy is dangerous, as if the source contains 'n' or more characters, it will not null terminate the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/extract_gpuinfo_amdgpu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 18727,
+                        "charLength": 50
+                      },
+                      "insertedContent": {
+                        "text": "strlcpy(dst,  \" (Carrizo / Stoney)\",  remaining_len)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-805c6a6a-fa4f-4cfc-82f0-0996ec27d3ab",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/extract_gpuinfo_amdgpu.c"
+                },
+                "region": {
+                  "startLine": 551,
+                  "startColumn": 8,
+                  "endLine": 551,
+                  "endColumn": 57,
+                  "charOffset": 18593,
+                  "charLength": 49,
+                  "snippet": {
+                    "text": "strncpy(dst, \" (Iceland / Tonga)\", remaining_len)",
+                    "rendered": {
+                      "text": "strncpy(dst, \" (Iceland / Tonga)\", remaining_len)",
+                      "markdown": "`strncpy(dst, \" (Iceland / Tonga)\", remaining_len)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "strncpy is dangerous, as if the source contains 'n' or more characters, it will not null terminate the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/extract_gpuinfo_amdgpu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 18593,
+                        "charLength": 49
+                      },
+                      "insertedContent": {
+                        "text": "strcpy_s(dst,  remaining_len,  \" (Iceland / Tonga)\")"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "strncpy is dangerous, as if the source contains 'n' or more characters, it will not null terminate the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/extract_gpuinfo_amdgpu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 18593,
+                        "charLength": 49
+                      },
+                      "insertedContent": {
+                        "text": "strlcpy(dst,  \" (Iceland / Tonga)\",  remaining_len)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-2a50d8ab-0dba-4988-a147-36135a7d9b12",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/extract_gpuinfo_amdgpu.c"
+                },
+                "region": {
+                  "startLine": 546,
+                  "startColumn": 8,
+                  "endLine": 546,
+                  "endColumn": 67,
+                  "charOffset": 18449,
+                  "charLength": 59,
+                  "snippet": {
+                    "text": "strncpy(dst, \" (Kaveri / Kabini / Mullins)\", remaining_len)",
+                    "rendered": {
+                      "text": "strncpy(dst, \" (Kaveri / Kabini / Mullins)\", remaining_len)",
+                      "markdown": "`strncpy(dst, \" (Kaveri / Kabini / Mullins)\", remaining_len)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "strncpy is dangerous, as if the source contains 'n' or more characters, it will not null terminate the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/extract_gpuinfo_amdgpu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 18449,
+                        "charLength": 59
+                      },
+                      "insertedContent": {
+                        "text": "strcpy_s(dst,  remaining_len,  \" (Kaveri / Kabini / Mullins)\")"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "strncpy is dangerous, as if the source contains 'n' or more characters, it will not null terminate the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/extract_gpuinfo_amdgpu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 18449,
+                        "charLength": 59
+                      },
+                      "insertedContent": {
+                        "text": "strlcpy(dst,  \" (Kaveri / Kabini / Mullins)\",  remaining_len)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-89eb7d66-260d-40c2-ae54-43d645831585",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/extract_gpuinfo_amdgpu.c"
+                },
+                "region": {
+                  "startLine": 541,
+                  "startColumn": 8,
+                  "endLine": 541,
+                  "endColumn": 58,
+                  "charOffset": 18314,
+                  "charLength": 50,
+                  "snippet": {
+                    "text": "strncpy(dst, \" (Bonaire / Hawaii)\", remaining_len)",
+                    "rendered": {
+                      "text": "strncpy(dst, \" (Bonaire / Hawaii)\", remaining_len)",
+                      "markdown": "`strncpy(dst, \" (Bonaire / Hawaii)\", remaining_len)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "strncpy is dangerous, as if the source contains 'n' or more characters, it will not null terminate the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/extract_gpuinfo_amdgpu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 18314,
+                        "charLength": 50
+                      },
+                      "insertedContent": {
+                        "text": "strcpy_s(dst,  remaining_len,  \" (Bonaire / Hawaii)\")"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "strncpy is dangerous, as if the source contains 'n' or more characters, it will not null terminate the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/extract_gpuinfo_amdgpu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 18314,
+                        "charLength": 50
+                      },
+                      "insertedContent": {
+                        "text": "strlcpy(dst,  \" (Bonaire / Hawaii)\",  remaining_len)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-26075023-22a7-4411-8964-e7e7910404b8",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/extract_gpuinfo_amdgpu.c"
+                },
+                "region": {
+                  "startLine": 536,
+                  "startColumn": 8,
+                  "endLine": 536,
+                  "endColumn": 84,
+                  "charOffset": 18153,
+                  "charLength": 76,
+                  "snippet": {
+                    "text": "strncpy(dst, \" (Hainan / Oland / Verde / Pitcairn / Tahiti)\", remaining_len)",
+                    "rendered": {
+                      "text": "strncpy(dst, \" (Hainan / Oland / Verde / Pitcairn / Tahiti)\", remaining_len)",
+                      "markdown": "`strncpy(dst, \" (Hainan / Oland / Verde / Pitcairn / Tahiti)\", remaining_len)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "strncpy is dangerous, as if the source contains 'n' or more characters, it will not null terminate the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/extract_gpuinfo_amdgpu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 18153,
+                        "charLength": 76
+                      },
+                      "insertedContent": {
+                        "text": "strcpy_s(dst,  remaining_len,  \" (Hainan / Oland / Verde / Pitcairn / Tahiti)\")"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "strncpy is dangerous, as if the source contains 'n' or more characters, it will not null terminate the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/extract_gpuinfo_amdgpu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 18153,
+                        "charLength": 76
+                      },
+                      "insertedContent": {
+                        "text": "strlcpy(dst,  \" (Hainan / Oland / Verde / Pitcairn / Tahiti)\",  remaining_len)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-61961571-6fac-40c0-887f-ae1e0bc833c7",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/extract_gpuinfo_amdgpu.c"
+                },
+                "region": {
+                  "startLine": 528,
+                  "startColumn": 19,
+                  "endLine": 528,
+                  "endColumn": 51,
+                  "charOffset": 17882,
+                  "charLength": 32,
+                  "snippet": {
+                    "text": "strlen(static_info->device_name)",
+                    "rendered": {
+                      "text": "strlen(static_info->device_name)",
+                      "markdown": "`strlen(static_info->device_name)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/extract_gpuinfo_amdgpu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 17882,
+                        "charLength": 32
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(static_info->device_name, <size of static_info->device_name>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/extract_gpuinfo_amdgpu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 17882,
+                        "charLength": 32
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(static_info->device_name, <size of static_info->device_name>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-cbabdb3c-6f09-4a05-b607-fe1b63f6bd54",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/extract_gpuinfo_amdgpu.c"
+                },
+                "region": {
+                  "startLine": 524,
+                  "startColumn": 4,
+                  "endLine": 524,
+                  "endColumn": 86,
+                  "charOffset": 17686,
+                  "charLength": 82,
+                  "snippet": {
+                    "text": "strncpy(static_info->device_name, gpu_info->drmVersion->desc, MAX_DEVICE_NAME - 1)",
+                    "rendered": {
+                      "text": "strncpy(static_info->device_name, gpu_info->drmVersion->desc, MAX_DEVICE_NAME - 1)",
+                      "markdown": "`strncpy(static_info->device_name, gpu_info->drmVersion->desc, MAX_DEVICE_NAME - 1)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "strncpy is dangerous, as if the source contains 'n' or more characters, it will not null terminate the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/extract_gpuinfo_amdgpu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 17686,
+                        "charLength": 82
+                      },
+                      "insertedContent": {
+                        "text": "strcpy_s(static_info->device_name,  MAX_DEVICE_NAME - 1,  gpu_info->drmVersion->desc)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "strncpy is dangerous, as if the source contains 'n' or more characters, it will not null terminate the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/extract_gpuinfo_amdgpu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 17686,
+                        "charLength": 82
+                      },
+                      "insertedContent": {
+                        "text": "strlcpy(static_info->device_name,  gpu_info->drmVersion->desc,  MAX_DEVICE_NAME - 1)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-436d9aa4-539c-4cca-93a2-a42352b5a4da",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/ini.c"
+                },
+                "region": {
+                  "startLine": 282,
+                  "startColumn": 17,
+                  "endLine": 282,
+                  "endColumn": 31,
+                  "charOffset": 7237,
+                  "charLength": 14,
+                  "snippet": {
+                    "text": "strlen(string)",
+                    "rendered": {
+                      "text": "strlen(string)",
+                      "markdown": "`strlen(string)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/ini.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 7237,
+                        "charLength": 14
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(string, <size of string>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/ini.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 7237,
+                        "charLength": 14
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(string, <size of string>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-64bd5e3e-0de6-4aac-bb70-f8c04f968d0a",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/extract_gpuinfo_amdgpu.c"
+                },
+                "region": {
+                  "startLine": 523,
+                  "startColumn": 43,
+                  "endLine": 523,
+                  "endColumn": 77,
+                  "charOffset": 17644,
+                  "charLength": 34,
+                  "snippet": {
+                    "text": "strlen(gpu_info->drmVersion->desc)",
+                    "rendered": {
+                      "text": "strlen(gpu_info->drmVersion->desc)",
+                      "markdown": "`strlen(gpu_info->drmVersion->desc)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/extract_gpuinfo_amdgpu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 17644,
+                        "charLength": 34
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(gpu_info->drmVersion->desc, <size of gpu_info->drmVersion->desc>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/extract_gpuinfo_amdgpu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 17644,
+                        "charLength": 34
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(gpu_info->drmVersion->desc, <size of gpu_info->drmVersion->desc>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-d06f82b2-b45a-4888-8f01-61ec18396e74",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/ini.c"
+                },
+                "region": {
+                  "startLine": 146,
+                  "startColumn": 16,
+                  "endLine": 146,
+                  "endColumn": 37,
+                  "charOffset": 3723,
+                  "charLength": 21,
+                  "snippet": {
+                    "text": "strlen(line + offset)",
+                    "rendered": {
+                      "text": "strlen(line + offset)",
+                      "markdown": "`strlen(line + offset)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/ini.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 3723,
+                        "charLength": 21
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(line + offset, <size of line + offset>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/ini.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 3723,
+                        "charLength": 21
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(line + offset, <size of line + offset>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-b79ea8a7-dbb0-41b3-a33f-0e9993da64b4",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/extract_gpuinfo_amdgpu.c"
+                },
+                "region": {
+                  "startLine": 521,
+                  "startColumn": 4,
+                  "endLine": 521,
+                  "endColumn": 64,
+                  "charOffset": 17477,
+                  "charLength": 60,
+                  "snippet": {
+                    "text": "strncpy(static_info->device_name, name, MAX_DEVICE_NAME - 1)",
+                    "rendered": {
+                      "text": "strncpy(static_info->device_name, name, MAX_DEVICE_NAME - 1)",
+                      "markdown": "`strncpy(static_info->device_name, name, MAX_DEVICE_NAME - 1)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "strncpy is dangerous, as if the source contains 'n' or more characters, it will not null terminate the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/extract_gpuinfo_amdgpu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 17477,
+                        "charLength": 60
+                      },
+                      "insertedContent": {
+                        "text": "strcpy_s(static_info->device_name,  MAX_DEVICE_NAME - 1,  name)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "strncpy is dangerous, as if the source contains 'n' or more characters, it will not null terminate the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/extract_gpuinfo_amdgpu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 17477,
+                        "charLength": 60
+                      },
+                      "insertedContent": {
+                        "text": "strlcpy(static_info->device_name,  name,  MAX_DEVICE_NAME - 1)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-7885d1fd-ba4e-4ed7-8db3-248e53e586b8",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "include/uthash.h"
+                },
+                "region": {
+                  "startLine": 85,
+                  "startColumn": 25,
+                  "endLine": 85,
+                  "endColumn": 34,
+                  "charOffset": 3535,
+                  "charLength": 9,
+                  "snippet": {
+                    "text": "strlen(s)",
+                    "rendered": {
+                      "text": "strlen(s)",
+                      "markdown": "`strlen(s)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "include/uthash.h"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 3535,
+                        "charLength": 9
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(s, <size of s>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "include/uthash.h"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 3535,
+                        "charLength": 9
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(s, <size of s>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-e5a7e62f-a417-4a97-afd8-f0de0102510d",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/ini.c"
+                },
+                "region": {
+                  "startLine": 131,
+                  "startColumn": 13,
+                  "endLine": 131,
+                  "endColumn": 25,
+                  "charOffset": 3255,
+                  "charLength": 12,
+                  "snippet": {
+                    "text": "strlen(line)",
+                    "rendered": {
+                      "text": "strlen(line)",
+                      "markdown": "`strlen(line)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/ini.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 3255,
+                        "charLength": 12
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(line, <size of line>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/ini.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 3255,
+                        "charLength": 12
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(line, <size of line>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-9d9a0b5e-7b3b-4b3e-8d67-027377f7d942",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/ini.c"
+                },
+                "region": {
+                  "startLine": 49,
+                  "startColumn": 16,
+                  "endLine": 49,
+                  "endColumn": 25,
+                  "charOffset": 1027,
+                  "charLength": 9,
+                  "snippet": {
+                    "text": "strlen(s)",
+                    "rendered": {
+                      "text": "strlen(s)",
+                      "markdown": "`strlen(s)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/ini.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 1027,
+                        "charLength": 9
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(s, <size of s>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/ini.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 1027,
+                        "charLength": 9
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(s, <size of s>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-8e56d96c-2ad4-4973-ae49-ce8f5d3da85a",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/extract_gpuinfo_amdgpu.c"
+                },
+                "region": {
+                  "startLine": 520,
+                  "startColumn": 14,
+                  "endLine": 520,
+                  "endColumn": 26,
+                  "charOffset": 17457,
+                  "charLength": 12,
+                  "snippet": {
+                    "text": "strlen(name)",
+                    "rendered": {
+                      "text": "strlen(name)",
+                      "markdown": "`strlen(name)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/extract_gpuinfo_amdgpu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 17457,
+                        "charLength": 12
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(name, <size of name>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/extract_gpuinfo_amdgpu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 17457,
+                        "charLength": 12
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(name, <size of name>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-6acd41a3-b1fb-4eff-be1c-87085ab70af4",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "include/uthash.h"
+                },
+                "region": {
+                  "startLine": 76,
+                  "startColumn": 26,
+                  "endLine": 76,
+                  "endColumn": 36,
+                  "charOffset": 3249,
+                  "charLength": 10,
+                  "snippet": {
+                    "text": "malloc(sz)",
+                    "rendered": {
+                      "text": "malloc(sz)",
+                      "markdown": "`malloc(sz)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If the value provided to malloc is the result of unsafe integer math, it can result in an exploitable condition. "
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "include/uthash.h"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 3249,
+                        "charLength": 10
+                      },
+                      "insertedContent": {
+                        "text": "calloc(<number of elements>, <size of each element>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        }
+      ],
+      "newlineSequences": [
+        "\r\n",
+        "\n"
+      ]
+    }
+  ]
+}
